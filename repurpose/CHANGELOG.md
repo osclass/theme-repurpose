@@ -1,5 +1,9 @@
 #CHANGELOG
 
+### v1.2.3 - 20/01/2015
+
+* Added support for highlight listings
+
 ### v1.2.2 - 03/10/2013
 
 * Fixed issue with permalinks enabled, home page region links.
